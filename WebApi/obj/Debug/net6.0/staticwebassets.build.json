@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "KPppTaTvlk3T/jrO1xJL76WHTq+hU9nTG71uCsv3Ij8=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\JK\\Desktop\\StudentCourseWithUpload\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\JK\\Desktop\\StudentCourseWithUpload\\WebApi\\wwwroot\\std\\image_2022-12-05_08-47-55.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JK\\Desktop\\StudentCourseWithUpload\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "std/image_2022-12-05_08-47-55.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\std\\image_2022-12-05_08-47-55.png"
+    },
+    {
+      "Identity": "C:\\Users\\JK\\Desktop\\StudentCourseWithUpload\\WebApi\\wwwroot\\std\\image_2022-12-09_20-21-16.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JK\\Desktop\\StudentCourseWithUpload\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "std/image_2022-12-09_20-21-16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\std\\image_2022-12-09_20-21-16.png"
+    }
+  ]
+}
